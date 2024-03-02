@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "callingmyname2": "^1.0.2",
+    "node-schedule": "^2.1.1"
+  },
+  "name": "remind-works-8th",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chalk-6th": "^1.0.1",
+    "test-app-number-7th": "^1.0.1"
+  }
+}
